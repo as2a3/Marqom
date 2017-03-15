@@ -1,0 +1,24 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">20.8dp</dimen>
+    <dimen name="activity_vertical_margin">20.8dp</dimen>
+    <dimen name="nav_header_vertical_spacing">20.8dp</dimen>
+    <dimen name="nav_header_height">208dp</dimen>
+    <dimen name="fab_margin">20.8dp</dimen>
+
+    <!-- Home screen -->
+    <dimen name="tabs_margin">31.2sp</dimen>
+
+    <!--commons-->
+    <dimen name="common_text_title">15.6sp</dimen>
+    <dimen name="common_text_title_big">20.8sp</dimen>
+    <dimen name="common_text_small">13sp</dimen>
+    <dimen name="common_text_very_small">10.4sp</dimen>
+    <dimen name="common_text_space_extra">5.2sp</dimen>
+    <dimen name="common_card_view_border_radius">6dp</dimen>
+
+    <dimen name="common_margin_padding_medium">10.4dp</dimen>
+    <dimen name="common_margin_padding_small">5.2dp</dimen>
+    <dimen name="common_margin_padding_big">20.8dp</dimen>
+
+</resources>

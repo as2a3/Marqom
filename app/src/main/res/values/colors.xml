@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EDEBE8</color><!--#3F51B5-->
+    <color name="colorPrimaryDark">#A4A5A0</color><!--#303F9F-->
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="tab_selected_button">#D79B61</color>
+</resources>
